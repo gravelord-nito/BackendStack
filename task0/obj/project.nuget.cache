@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ItK8Y4y6taRDyzynyBtPK9d4JPFLuEpbFnjEOQU6raRa7tLChPuCdaIi+dTLTT77+h8R8XU1l3XxTBWckhOXxg==",
+  "success": true,
+  "projectFilePath": "/home/alisa/Projects/CSstack/task0/task0.csproj",
+  "expectedPackageFiles": [
+    "/home/alisa/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

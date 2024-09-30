@@ -1,0 +1,14 @@
+/home/alisa/Projects/CSstack/task0/bin/Debug/net8.0/task0
+/home/alisa/Projects/CSstack/task0/bin/Debug/net8.0/task0.deps.json
+/home/alisa/Projects/CSstack/task0/bin/Debug/net8.0/task0.runtimeconfig.json
+/home/alisa/Projects/CSstack/task0/bin/Debug/net8.0/task0.dll
+/home/alisa/Projects/CSstack/task0/bin/Debug/net8.0/task0.pdb
+/home/alisa/Projects/CSstack/task0/obj/Debug/net8.0/task0.GeneratedMSBuildEditorConfig.editorconfig
+/home/alisa/Projects/CSstack/task0/obj/Debug/net8.0/task0.AssemblyInfoInputs.cache
+/home/alisa/Projects/CSstack/task0/obj/Debug/net8.0/task0.AssemblyInfo.cs
+/home/alisa/Projects/CSstack/task0/obj/Debug/net8.0/task0.csproj.CoreCompileInputs.cache
+/home/alisa/Projects/CSstack/task0/obj/Debug/net8.0/task0.dll
+/home/alisa/Projects/CSstack/task0/obj/Debug/net8.0/refint/task0.dll
+/home/alisa/Projects/CSstack/task0/obj/Debug/net8.0/task0.pdb
+/home/alisa/Projects/CSstack/task0/obj/Debug/net8.0/task0.genruntimeconfig.cache
+/home/alisa/Projects/CSstack/task0/obj/Debug/net8.0/ref/task0.dll
